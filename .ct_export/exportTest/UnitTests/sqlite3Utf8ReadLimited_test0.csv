@@ -1,0 +1,3 @@
+CT(Controller Tester) Test Data
+test name:sqlite3Utf8ReadLimited_test0,""
+,<input>,n,piOut_is_not_null,piOut_mem[0],z_is_not_null,z_mem[0],<expect>,returnVar,<output>,returnVar,<toutput>,returnVar

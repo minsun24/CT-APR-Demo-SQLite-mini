@@ -1,0 +1,31 @@
+{
+  "copy": [],
+  "beforeCreateProject": [],
+  "afterCreateProject": [
+    {
+      "actionName": "copy",
+      "from": "${PWD}\\ut.ini",
+      "to": "${WORKSPACE}\\${PROJECT_NAME}\\.csdata\\ut.ini",
+      "isDir": false
+    },
+    {
+      "actionName": "copy",
+      "from": "${PWD}\\pa.ini",
+      "to": "${WORKSPACE}\\${PROJECT_NAME}\\.csdata\\pa.ini",
+      "isDir": false
+    },
+    {
+      "actionName": "copy",
+      "from": "${PWD}\\.csencodings",
+      "to": "${WORKSPACE}\\${PROJECT_NAME}\\.csdata\\.csencodings",
+      "isDir": false
+    },
+    {
+      "actionName": "copy",
+      "from": "${PWD}\\source_file_extension.xml",
+      "to": "${WORKSPACE}\\${PROJECT_NAME}\\.csdata\\source_file_extension.xml",
+      "isDir": false
+    }
+  ],
+  "afterImport": []
+}

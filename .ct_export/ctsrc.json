@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Default Module",
+    "language": 0,
+    "linkFlag": "",
+    "compileFlag": "",
+    "toolchainName": "${TOOLCHAIN_NAME}",
+    "sourceTopDir": "C:\\Users\\CAT\\AppData\\Roaming\\CodeScroll\\1.1\\imported\\20240425_4\\sources\\_D",
+    "src": [
+      {
+        "path": "C:\\Users\\CAT\\AppData\\Roaming\\CodeScroll\\1.1\\imported\\20240425_4\\sources\\_D\\slice1.c",
+        "compileFlag": ""
+      }
+    ]
+  }
+]

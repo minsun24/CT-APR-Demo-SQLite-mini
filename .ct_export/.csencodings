@@ -1,0 +1,26 @@
+#######################################################################################################################################################################################
+# EncodingTypes = {"utf32be", "utf32le", "utf16be", "utf16le", "utf8", "utf8bom", "mac-kr", "cp949", "euc_kr", "euc-kr", "cp932",  "cp936",  "cp950"}
+# Key = "file", "directory", "regex", "global"}
+# priority(sort DESC) file > directory > regex > global
+
+# Line Format
+# Key<cs_delim>value<cs_delim>EncodingType(※ It cannot be used when the key is global.)
+# Key<cs_delim>EncodingType(※ Use only when the key is global.)
+
+# Example
+# Set all .cpp files to cp949
+# regex<cs_delim>.*\.cpp<cs_delim>cp949
+
+# Set all files in directory "C:\Project\src\module\a" to utf16 big endian. ※ Pay attention to the file separator(e.g. C:\Project/src/module/a does not match the regular expression).
+# regex<cs_delim>c:\\project\\src\\module\\a\\.*<cs_delim>utf16be
+# directory<cs_delim>c:\\project\\src\\module\\a\\.*<cs_delim>utf16be
+
+# Set a specific file to cp949
+# file<cs_delim>c:\\project\\src\\module\\a\\foo.c<cs_delim>cp949
+
+# Global encoding settings
+# global<cs_delim>cp949
+
+#######################################################################################################################################################################################
+
+global<cs_delim>cp949

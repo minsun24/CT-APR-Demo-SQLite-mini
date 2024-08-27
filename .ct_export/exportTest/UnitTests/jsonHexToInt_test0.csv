@@ -1,0 +1,4 @@
+CT(Controller Tester) Test Data
+test name:jsonHexToInt_test0,""
+,<input>,h,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"DISCOVERED at slice1.c:51","0",,"0",,"0",,""

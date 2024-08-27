@@ -1,0 +1,166 @@
+{
+  "information": {
+    "name": "${PROJECT_NAME}",
+    "utVersion": 6060000,
+    "gpVersion": 1010102,
+    "schemaVersion": 30000000,
+    "packageVersion": 0,
+    "patchVersion": 0
+  },
+  "exclusions": [],
+  "globalExclusions": [
+    {
+      "path": "C:\\CT\\src\\ut",
+      "isDir": true
+    }
+  ],
+  "inclusions": [],
+  "utCoverageExclusions": [],
+  "utUserCodeInsertNodes": [],
+  "utClassFactories": [],
+  "properties": [
+    {
+      "name": "CSD_FILE_VERSION",
+      "integerValue": 2
+    },
+    {
+      "name": "CYCLE_UNIT",
+      "integerValue": 3
+    },
+    {
+      "name": "MCDC_OP_LIMIT",
+      "integerValue": 40
+    },
+    {
+      "name": "MCDC_TRUTHTABLECASE_LIMIT",
+      "integerValue": 20000
+    },
+    {
+      "name": "MODULE_1_HASH",
+      "integerValue": 1815485202
+    },
+    {
+      "name": "OP_BOOLEAN_IS_DECISION",
+      "integerValue": 0
+    },
+    {
+      "name": "OP_CONDITIONAL_IS_DECISION",
+      "integerValue": 0
+    },
+    {
+      "name": "OP_CONSTANT_EXPR_IS_DECISION",
+      "integerValue": 0
+    },
+    {
+      "name": "OP_MACRO_EXTRACTION",
+      "integerValue": 0
+    },
+    {
+      "name": "RTV_TARGET_TEST_PROJECT",
+      "integerValue": 0
+    },
+    {
+      "name": "TARGET_TEST_PROJECT",
+      "integerValue": 0
+    },
+    {
+      "name": "USE_MOCK",
+      "integerValue": 0
+    },
+    {
+      "name": "UT_COMBINATION",
+      "integerValue": 1
+    },
+    {
+      "name": "UT_CONVERT_PROJECT",
+      "integerValue": 0
+    },
+    {
+      "name": "UT_GENERATE_ARRAY_INDEX",
+      "integerValue": 0,
+      "stringValue": "0"
+    },
+    {
+      "name": "UT_GENERATE_RELATE_GLOBAL_VARIABLE",
+      "integerValue": 0,
+      "stringValue": "0"
+    },
+    {
+      "name": "UT_GRAPH_VIEW_TESTCASE",
+      "integerValue": 20
+    },
+    {
+      "name": "UT_ISOLATE",
+      "integerValue": 0
+    },
+    {
+      "name": "UT_MAINTAIN_TESTCASE",
+      "integerValue": 1
+    },
+    {
+      "name": "UT_MAX_TESTDATA",
+      "integerValue": 100
+    },
+    {
+      "name": "UT_PAIR_WISE_LIMIT",
+      "integerValue": 200
+    },
+    {
+      "name": "UT_POSTSTEP_COMMAND",
+      "integerValue": 0
+    },
+    {
+      "name": "UT_PRESTEP_COMMAND",
+      "integerValue": 0
+    },
+    {
+      "name": "UT_PTTRANGE_SELECTION",
+      "integerValue": 0,
+      "stringValue": "upper,lower"
+    },
+    {
+      "name": "UT_REDIRECT_STDOUT",
+      "integerValue": 0
+    },
+    {
+      "name": "UT_SAMPLE_COUNT",
+      "integerValue": 0,
+      "stringValue": "0"
+    },
+    {
+      "name": "UT_SAMPLE_INTERVAL",
+      "integerValue": 0,
+      "stringValue": "0"
+    },
+    {
+      "name": "UT_SEARCH_DEPTH",
+      "integerValue": 4
+    },
+    {
+      "name": "UT_START_VALUE",
+      "integerValue": 0,
+      "stringValue": "0"
+    },
+    {
+      "name": "UT_TESTCASECOUNT",
+      "integerValue": 5
+    },
+    {
+      "name": "UT_TESTCASE_CONTEXT",
+      "integerValue": 0
+    },
+    {
+      "name": "UT_TESTCASE_TIMEOUT",
+      "integerValue": 3
+    },
+    {
+      "name": "UT_TESTRUN_WORKDIR",
+      "integerValue": 0
+    },
+    {
+      "name": "UT_USER_START",
+      "integerValue": 0
+    }
+  ],
+  "globalProperties": []
+}
