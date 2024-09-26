@@ -8,16 +8,22 @@
     <file>UnitTests\jsonBytesToBypass_test0.utest</file>
     <file>UnitTests\jsonHexToInt4_test0.utest</file>
     <file>UnitTests\jsonUnescapeOneChar_test0.utest</file>
+    <file>UnitTests\testme_test0.utest</file>
+    <file>UnitTests\testme2_test0.utest</file>
+    <file>UnitTests\testme3_test0.utest</file>
   </unitTestFiles>
   <stubFiles/>
   <testDataFiles>
     <file>\UnitTests\jsonLabelCompare_test0.csv</file>
     <file>\UnitTests\jsonBytesToBypass_test0.csv</file>
     <file>\UnitTests\jsonHexToInt4_test0.csv</file>
+    <file>\UnitTests\testme_test0.csv</file>
+    <file>\UnitTests\testme2_test0.csv</file>
     <file>\UnitTests\sqlite3Utf8ReadLimited_test0.csv</file>
     <file>\UnitTests\jsonLabelCompareEscaped_test0.csv</file>
     <file>\UnitTests\jsonHexToInt_test0.csv</file>
     <file>\UnitTests\jsonUnescapeOneChar_test0.csv</file>
+    <file>\UnitTests\testme3_test0.csv</file>
   </testDataFiles>
   <stubState/>
 </com.codescroll.ut.importexport.testInfo.ExportSetInformation>

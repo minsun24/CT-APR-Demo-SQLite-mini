@@ -5,10 +5,14 @@
     "linkFlag": "",
     "compileFlag": "",
     "toolchainName": "${TOOLCHAIN_NAME}",
-    "sourceTopDir": "C:\\Users\\CAT\\AppData\\Roaming\\CodeScroll\\1.1\\imported\\20240425_4\\sources\\_D",
+    "sourceTopDir": "",
     "src": [
       {
-        "path": "C:\\Users\\CAT\\AppData\\Roaming\\CodeScroll\\1.1\\imported\\20240425_4\\sources\\_D\\slice1.c",
+        "path": "C:\\Users\\SURESOFT\\AppData\\Roaming\\CodeScroll\\1.1\\imported\\20240925_0\\sources\\_D\\slice1.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\test_source\\SBFL\\test.c",
         "compileFlag": ""
       }
     ]
