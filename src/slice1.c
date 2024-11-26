@@ -155,7 +155,7 @@ static __declspec(noinline) int jsonLabelCompareEscaped(
 static u32 jsonUnescapeOneChar(const char *z, u32 n, u32 *piOut){
   assert( n>0 );
   assert( z[0]=='\\' );
-  if( n<8 ){  /// buggy
+  if( n<3 ){  /// buggy
     *piOut = JSON_INVALID_CHAR;
     return n;
   }
